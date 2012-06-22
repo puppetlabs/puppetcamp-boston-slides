@@ -8,14 +8,6 @@
 ## @stahnma
 
 !SLIDE
-
-# Thanks to Microsoft
-# for the space
-
-# SSID Cambridge
-# Password pc0622
-
-!SLIDE
 # Know your audience
 * Piloting Puppet?
 * Really Using Puppet?
